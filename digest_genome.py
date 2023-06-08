@@ -1,14 +1,6 @@
 #!/usr/bin/env python
 #modified by Lingbin
 
-
-
-
-
-
-
-
-
 """
 Script to extract restriction fragment from a fasta file and output a BED file
 """
