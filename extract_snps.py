@@ -1,8 +1,5 @@
 #!/usr/bin/env python
-# Author(s): Nicolas Servant
-# Contact: nicolas.servant@curie.fr
-# This software is distributed without any guarantee under the terms of the GNU General 
-# Public License, either Version 2, June 1991 or Version 3, June 2007.
+#modified by Lingbin
 
 """
 Script to extract informative SNPs from a multisamples VCF
