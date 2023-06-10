@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 #modified by Lingbin
 
+
 """
 Script to extract informative SNPs from a multisamples VCF
 If no --ref is specified, use the REF allele as is. Otherwise, replace the REF allele by the specified one.
