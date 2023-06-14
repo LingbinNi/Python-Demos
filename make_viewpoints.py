@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-
+#modified by Lingbin
 
 """
 Script to keep only valid 3C products - DE and SC are removed
