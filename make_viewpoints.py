@@ -1,12 +1,5 @@
 #!/usr/bin/env python
 
-# HiC-Pro
-# Copyleft 2015 Institut Curie
-# Author(s): Nicolas Servant, Eric Viara
-# Contact: nicolas.servant@curie.fr
-# This software is distributed without any guarantee under the terms of the
-# GNU General
-# Public License, either Version 2, June 1991 or Version 3, June 2007.
 
 """
 Script to keep only valid 3C products - DE and SC are removed
